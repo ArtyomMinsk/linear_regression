@@ -1,6 +1,6 @@
 # Signs of Regression
 
-Linear Regression with a Python module for machine learning `scikit-learn`.
+Linear Regression with a Python module `scikit-learn` for machine learning.
 
 ## Description
 
